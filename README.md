@@ -1,10 +1,10 @@
 # Getting and Ceaning Data Project
 
-The project was to **read** the provided data set, on "Human Activity Recognition Using Smartphones", **clean** the data set and **output** a tidy data set.
+The project was to **read** the provided data set, on ["Human Activity Recognition Using Smartphones"](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), **clean** the data set and **output** a tidy data set.
 
 **Below are the steps to reproduce this process:**
 
-* Input files are provided as zip file. download & unzip
+* Provided data files are zip files. download & unzip [from here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 * Below files to be moved to the current directory of R script. They are
 
