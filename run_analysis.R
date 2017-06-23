@@ -53,7 +53,7 @@ data2 <- data1 %>%
 data3 <- data2 %>%
         group_by(subject_id, activity) %>%
         summarize_all(funs(mean(.,na.rm=TRUE))) %>%
-        write.csv("tidy.csv", row.names = FALSE)
+        write.table("tidy.txt", row.names = FALSE)
 
 
 
